@@ -80,3 +80,13 @@
         font-size: 0.6rem;
     }
 }
+
+@media (max-width: 776px) {
+    .name{
+        font-size: 0.8rem;
+    }
+
+    .label{
+        font-size: 0.4rem;
+    }
+}
