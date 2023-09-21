@@ -51,6 +51,9 @@
     font-size: 1.5rem;
 }
 
+
+/* media query */
+
 @media (max-width: 1423px) { 
     .name{
         font-size: 3rem;
